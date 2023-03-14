@@ -1,0 +1,7 @@
+name: DeathCommands
+version: '${version}'
+main: it.axiid.deathcommands.plugin.DeathCommands
+author: Axiid
+commands:
+  deathcommands:
+    description: Main command

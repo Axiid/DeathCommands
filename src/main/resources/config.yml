@@ -1,0 +1,3 @@
+instant-respawn: true
+commands:
+  - '/kit default'
